@@ -1,0 +1,17 @@
+{
+  "name": "web-app-scaffolding",
+  "version": "0.0.0",
+  "authors": [
+    "Benjamin Vazquez <benjamin.vazquez.mexico@bensoftware.mx>"
+  ],
+  "ignore": [
+    "**/*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "^4.7.0"
+  }
+}
